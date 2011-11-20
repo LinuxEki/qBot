@@ -1,5 +1,5 @@
 {
-  "name": "qBot",
-  "description": "Quantumstate's improved version of the Test Bot",
+  "name": "rusher",
+  "description": "Linux_Eki's rusher bot from Quantumstate's improved version of the Test Bot",
   "constructor": "QBotAI"
 }
